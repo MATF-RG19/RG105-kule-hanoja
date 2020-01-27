@@ -1,8 +1,10 @@
 # RG105-kule-hanoja
 Kule Hanoja
 
-1.12.2019:
-Napravljena scena , modeli valjka i torusa, osvetljenje.
-9.12.2019:
-Animacije su u fazi testiranja, trenutno je pokretanje izvodljivo pomocu tastature
-plan je da bude i preko misa.
+- Nakon pokretanja programa moguce je birati broj diskova tasterima od 1 do 9,
+- Zumiranje desnim klikom misa i Un-Zoom levim klikom,
+- R dugme za restart animacije
+- Space za restart zuma
+- Strelice za okretanje kamere
+- s taster za povecanje brzine i x taster za smanjenje brzine(moze i da zaustavi)
+
